@@ -1,9 +1,9 @@
-# CS411-Project-Team7
+# Movie Geerator
 
 ## The demo is in the demo.md file
-* link to the dmeo https://www.youtube.com/watch?v=5sjZlAKPhUA
+* link to the demo https://www.youtube.com/watch?v=5sjZlAKPhUA
 
-## Idea - Movie Generator
+## Idea 
 
 Create a movie/tv show generator that helps user find movies given keyword/description. Allow filtering by movie rating, language, tv/movie, release date, length.
 * https://developers.themoviedb.org/3/getting-started/introduction
